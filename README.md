@@ -16,7 +16,7 @@ The open file/file at the top is their chatlog of the conversation
 
 ## License
 
-This project is under the [MIT](#) license
+This project is under the [MIT](https://github.com/leonkoech/Chat-Server/blob/master/LICENSE) license
 
 ## Contribution
 

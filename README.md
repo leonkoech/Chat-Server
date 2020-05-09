@@ -20,4 +20,4 @@ This project is under the [MIT](https://github.com/leonkoech/Chat-Server/blob/ma
 
 ## Contribution
 
-Please read the [Contribution](#) guide
+Please read the [Contribution](https://github.com/leonkoech/Chat-Server/blob/master/contributions.md) guide

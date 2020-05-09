@@ -4,7 +4,7 @@
 
 A simple chat server with python that supports TCP connections.
 
-Remember: *TCP **does not** support MULTICAST, BORADCAST or UNICAST unlike UDP.*
+Remember: *TCP **does not** support  BORADCAST or UNICAST unlike UDP.*
 
 ## Demo
 
